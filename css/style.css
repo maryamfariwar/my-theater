@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: rgb(44, 0, 0);
+}
+
+h3{
+    background-color: rgb(69, 62, 55);
+}
+.font{
+    text-align: center;
+    color: aliceblue;
+}
+
+#video{
+   position: absolute;
+   top:55%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+    
+}
+#second{
+    color: aliceblue;
+    text-align: center;
+    margin-top:390px;
+    background-color: rgb(69, 62, 55);
+
+
+}
+#footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(44, 0, 0);
+}
+
+
